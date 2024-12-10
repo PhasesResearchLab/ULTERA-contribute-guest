@@ -1,0 +1,166 @@
+Name:,Marcia Ahn
+Email:,mfa5876@psu.edu
+Direct Fetched:,T
+Hand Fetched:,T
+Comment:,Collected by Marcia; small fixes by Adam; elemental data moved to another sheet
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+1,V96 Ti4,BCC,A,None,hardness,EXP ,None,273.0,1744861439.9999998,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+2,V96 Ti4,BCC,A,None,hardness,EXP ,None,473.0,1745253720.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+3,V96 Ti4,BCC,A,None,hardness,EXP ,None,573.0,1733975670.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+4,V96 Ti4,BCC,A,None,hardness,EXP ,None,673.0,1684744530.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+5,V96 Ti4,BCC,A,None,hardness,EXP ,None,723.0,1684744530.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+6,V96 Ti4,BCC,A,None,hardness,EXP ,None,773.0,1743488460.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+7,V96 Ti4,BCC,A,None,hardness,EXP ,None,823.0,1734269880.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+8,V96 Ti4,BCC,A,None,hardness,EXP ,None,873.0,1822434810.0000002,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+9,V96 Ti4,BCC,A,None,hardness,EXP ,None,833.0,1792915740.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+10,V96 Ti4,BCC,A,None,hardness,EXP ,None,973.0,1773203670.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+11,V96 Ti4,BCC,A,None,hardness,EXP ,None,1023.0,1763985090.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+12,V96 Ti4,BCC,A,None,hardness,EXP ,None,1073.0,1676310510.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+13,V96 Ti4,BCC,A,None,hardness,EXP ,None,1173.0,1529107439.9999998,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+14,V92 Cr4 Ti4,BCC,A,None,hardness,EXP ,None,273.0,1864408770.0000002,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+15,V92 Cr4 Ti4,BCC,A,None,hardness,EXP ,None,473.0,1842931439.9999998,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+16,V92 Cr4 Ti4,BCC,A,None,hardness,EXP ,None,573.0,1854601770.0000002,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+17,V92 Cr4 Ti4,BCC,A,None,hardness,EXP ,None,673.0,1854601770.0000002,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+18,V92 Cr4 Ti4,BCC,A,None,hardness,EXP ,None,723.0,1981798560.0000002,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+19,V92 Cr4 Ti4,BCC,A,None,hardness,EXP ,None,773.0,2020340070.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+20,V92 Cr4 Ti4,BCC,A,None,hardness,EXP ,None,823.0,1991605560.0000002,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+21,V92 Cr4 Ti4,BCC,A,None,hardness,EXP ,None,873.0,2050349490.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+22,V92 Cr4 Ti4,BCC,A,None,hardness,EXP ,None,833.0,2009846580.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+23,V92 Cr4 Ti4,BCC,A,None,hardness,EXP ,None,973.0,1981210140.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+24,V92 Cr4 Ti4,BCC,A,None,hardness,EXP ,None,1023.0,1970716650.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+25,V92 Cr4 Ti4,BCC,A,None,hardness,EXP ,None,1073.0,1912070790.0,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+26,V92 Cr4 Ti4,BCC,A,None,hardness,EXP ,None,1173.0,1833124439.9999998,None,Pa,F2,10.1016/j.jnucmat.2016.12.040
+27,Al17.6 Mo10.1 Nb21.1 Ta10.6 Ti20.9 Zr19.7,BCC,None,None,hardness,EXP ,None,298.0,5800000000.0,None,Pa,T1,10.1016/j.matdes.2017.11.033 
+28,Al20.7 Mo12.7 Nb22.3 Ta13.6 Ti20.2 Zr10.4,BCC,None,None,hardness,EXP ,None,298.0,6200000000.0,None,Pa,T1,10.1016/j.matdes.2017.11.033 
+29,Al25.8 Nb24.8 Ta13.5 Ti24.1 Zr11.8,BCC,None,None,hardness,EXP ,None,298.0,5000000000.0,None,Pa,T1,10.1016/j.matdes.2017.11.033 
+30,Al9.8 Mo11.2 Nb24.5 Ta13.6 Ti21.4 Zr19.5,BCC,None,None,hardness,EXP ,None,298.0,6400000000.0,None,Pa,T1,10.1016/j.matdes.2017.11.033 
+31,Al5 Nb26 Ta28.9 Ti21.1 Zr19,BCC,None,None,hardness,EXP ,None,298.0,4900000000.0,None,Pa,T1,10.1016/j.matdes.2017.11.033 
+32,Nb25 Mo25 Ta25 W25,BCC,None,None,hardness,EXP ,None,298.0,16000000000.0,None,Pa,None,10.1016/j.ijplas.2017.04.013 
+33,Ru53 Ta32 Zr15 ,None,A,None,hardness,EXP ,None,873.0,19000000000.0,None,Pa,T3,10.1016/j.apsusc.2015.06.144 
+34,Zr38 Ta32 Ru30,None,A,None,hardness,EXP ,None,873.0,18700000000.0,None,Pa,T3,10.1016/j.apsusc.2015.06.144 
+35,Ta49 Zr51,None,A,None,hardness,EXP ,None,873.0,13500000000.0,None,Pa,T3,10.1016/j.apsusc.2015.06.144 
+36,Zr30 Ru70,None,A,None,hardness,EXP ,None,873.0,18400000000.0,None,Pa,T3,10.1016/j.apsusc.2015.06.144 
+37,Ru53 Ta32 Zr15 ,None,AC,None,hardness,EXP ,None,298.0,17100000000.0,None,Pa,T3,10.1016/j.apsusc.2015.06.144
+38,Zr38 Ta32 Ru30,None,AC,None,hardness,EXP ,None,298.0,15800000000.0,None,Pa,T3,10.1016/j.apsusc.2015.06.144
+39,Ru65 Ta35,None,AC,None,hardness,EXP ,None,298.0,14200000000.0,None,Pa,T3,10.1016/j.apsusc.2015.06.144
+40,Ru55 Ta45,None,AC,None,hardness,EXP ,None,298.0,12600000000.0,None,Pa,T3,10.1016/j.apsusc.2015.06.144
+41,Ta49 Zr51,None,AC,None,hardness,EXP ,None,298.0,5400000000.0,None,Pa,T3,10.1016/j.apsusc.2015.06.144
+42,Zr30 Ru70,None,AC,None,hardness,EXP ,None,298.0,12300000000.0,None,Pa,T3,10.1016/j.apsusc.2015.06.144
+43,Mo20 Ta20 W20 Nb20 V20 ,None,None,None,hardness,EXP ,None,298.0,7576000000.0,None,Pa,T5,10.1016/j.ijrmhm.2016.02.006 
+44,Mo98.79 Ti1.0 Zr0.08 C0.13,None,None,None,hardness,EXP ,None,1273.0,1900000000.0,None,Pa,T1,10.1016/j.ijrmhm.2016.04.020 
+45,Mo94.67 Ti0.96 Zr0.08 C0.89 B3.4,None,None,None,hardness,EXP ,None,1273.0,2100000000.0,None,Pa,T1,10.1016/j.ijrmhm.2016.04.020 
+46,Mo90.85 Ti0.93 Zr0.08 C1.59 B6.56,None,None,None,hardness,EXP ,None,1273.0,3400000000.0,None,Pa,T1,10.1016/j.ijrmhm.2016.04.020 
+47,Mo83.96 Ti0.86 Zr0.08 C2.86 B12.24,None,None,None,hardness,EXP ,None,1273.0,5200000000.0,None,Pa,T1,10.1016/j.ijrmhm.2016.04.020 
+48,Mo67.86 Ti0.72 Zr0.06 C5.83 B25.52,None,None,None,hardness,EXP ,None,1273.0,7800000000.0,None,Pa,T1,10.1016/j.ijrmhm.2016.04.020 
+49,Ti14.3 V14.3 Cr14.3 Zr14.3 Nb14.3 Mo14.3 W14.3 ,None,AC,None,hardness,EXP ,None,None,7129689000.0,None,Pa,T1,10.1016/j.ijrmhm.2018.05.014 
+50,Ti27.8 Cr8.3 Zr8.3 Nb27.8 Mo27.8,None,AC,None,hardness,EXP ,None,None,4913307000.0,None,Pa,T1,10.1016/j.ijrmhm.2018.05.014 
+51,Ti23.8 V14.3 Cr7.1 Zr7.1 Nb23.8 Mo23.8,None,AC,None,hardness,EXP ,None,None,5080026000.0,None,Pa,T1,10.1016/j.ijrmhm.2018.05.014 
+52,Ti20.8 V12.5 Cr6.3 Zr6.3 Nb20.8 Mo20.8 Al12.5,None,AC,None,hardness,EXP ,None,None,6001884000.0,None,Pa,T1,10.1016/j.ijrmhm.2018.05.014 
+53,Ti14.3 V14.3 Cr14.3 Zr14.3 Nb14.3 Mo14.3 W14.3 ,BCC,A,None,hardness,EXP ,None,1623.0,6639339000.0,None,Pa,T1,10.1016/j.ijrmhm.2018.05.014 
+54,Ti27.8 Cr8.3 Zr8.3 Nb27.8 Mo27.8,BCC,A,None,hardness,EXP ,None,1623.0,5207517000.0,None,Pa,T1,10.1016/j.ijrmhm.2018.05.014 
+55,Ti23.8 V14.3 Cr7.1 Zr7.1 Nb23.8 Mo23.8,BCC,A,None,hardness,EXP ,None,1623.0,4942728000.0,None,Pa,T1,10.1016/j.ijrmhm.2018.05.014 
+56,Ti20.8 V12.5 Cr6.3 Zr6.3 Nb20.8 Mo20.8 Al12.5,BCC,A,None,hardness,EXP ,None,1623.0,5756709000.0,None,Pa,T1,10.1016/j.ijrmhm.2018.05.014 
+57,Al25 Nb25 Ta25 Ti25 ,BCC,AC,None,hardness,EXP ,None,None,4491606000.0,None,Pa,T3,10.1016/j.matdes.2018.06.003 
+58,Mo25 Nb25 Ta25 Ti25,BCC,AC,None,hardness,EXP ,None,None,4226817000.0,None,Pa,T3,10.1016/j.matdes.2018.06.003 
+59,Nb25 Ta25 Ti25 W25,BCC,AC,None,hardness,EXP ,None,None,4393536000.0,None,Pa,T3,10.1016/j.matdes.2018.06.003 
+60,Hf25 Nb25 Ta25 Ti25 ,BCC,AC,None,hardness,EXP ,None,None,2647890000.0,None,Pa,T3,10.1016/j.matdes.2018.06.003 
+61,Cr25 Nb25 Ta25 Ti25 ,BCC,AC,None,hardness,EXP ,None,None,4854465000.0,None,Pa,T3,10.1016/j.matdes.2018.06.003 
+62,Cr25 Mo25 Nb25 Ti25 ,BCC,AC,None,hardness,EXP ,None,None,5285973000.0,None,Pa,T3,10.1016/j.matdes.2018.06.003 
+63,Cr25 Mo25 Ta25 Ti25 ,BCC,AC,None,hardness,EXP ,None,None,6178410000.0,None,Pa,T3,10.1016/j.matdes.2018.06.003 
+64,Al25 Mo25 Nb25 Ti25 ,BCC,AC,None,hardness,EXP ,None,None,4991763000.0,None,Pa,T3,10.1016/j.matdes.2018.06.003 
+65,Ti85 C15,None,None,None,hardness,EXP ,None,873.0,15000000000.0,None,Pa,None,10.1016/j.ceramint.2018.07.141 
+66,Ti80 C20,None,None,None,hardness,EXP ,None,873.0,25000000000.0,None,Pa,None,10.1016/j.ceramint.2018.07.141 
+67,Ti75 C25,None,None,None,hardness,EXP ,None,873.0,24000000000.0,None,Pa,None,10.1016/j.ceramint.2018.07.141 
+68,Cr6.1 Mo19.2 Nb19.2 Ta19.3 V17.0 W19.2,BCC,None,None,hardness,EXP ,None,1273.0,6624000000.0,None,Pa,T3,10.1016/j.calphad.2015.09.007 
+69,Cr5.7 Mo20.2 Nb20.4 Ta20.6 V13.0 W20.1,BCC,None,None,hardness,EXP ,None,1273.0,6910000000.0,None,Pa,T3,10.1016/j.calphad.2015.09.007 
+70,Cr16.8 Mo17.6 Nb17.9 Ta18.5 V11.4 W17.8,BCC,None,None,hardness,EXP ,None,1573.0,7403000000.0,None,Pa,T3,10.1016/j.calphad.2015.09.007 
+71,W,BCC,None,None,hardness,EXP ,None,2373.0,4020870000.0,None,Pa,F7,10.1016/j.msea.2016.06.006 
+72,W90 Ta10,BCC,None,None,hardness,EXP ,None,2373.0,3756081000.0,None,Pa,F7,10.1016/j.msea.2016.06.006 
+73,W97 Ti1.5 C1.5,BCC,None,None,hardness,EXP ,None,2373.0,5197710000.0,None,Pa,F7,10.1016/j.msea.2016.06.006 
+74,W95 Ti2.5 C2.5,BCC,None,None,hardness,EXP ,None,2373.0,609.0,None,Pa,F7,10.1016/j.msea.2016.06.006 
+75,Nb,BCC,None,None,hardness,EXP ,None,298.0,1320000000.0,None,Pa,T2,10.1016/j.msea.2016.07.102 
+76,Ta,BCC,None,None,hardness,EXP ,None,298.0,873000000.0,None,Pa,T2,10.1016/j.msea.2016.07.102 
+77,Ti,BCC,None,None,hardness,EXP ,None,298.0,970000000.0,None,Pa,T2,10.1016/j.msea.2016.07.102 
+78,V,BCC,None,None,hardness,EXP ,None,298.0,628000000.0,None,Pa,T2,10.1016/j.msea.2016.07.102 
+79,W,BCC,None,None,hardness,EXP ,None,298.0,3430000000.0,None,Pa,T2,10.1016/j.msea.2016.07.102 
+80,Nb27.8 Ta27.45 Ti22.55 V21.55,BCC,None,None,hardness,EXP ,None,298.0,3113000000.0,None,Pa,T2,10.1016/j.msea.2016.07.102 
+81,Nb28.5 Ta29.65 V20.67 W21.18,BCC,None,None,hardness,EXP ,None,298.0,4830000000.0,None,Pa,T2,10.1016/j.msea.2016.07.102 
+82,Nb22.7 Ta25.35 Ti16.7 V17.35 W18,BCC,None,None,hardness,EXP ,None,298.0,4380000000.0,None,Pa,T2,10.1016/j.msea.2016.07.102 
+83,Ta,BCC,S,None,hardness,EXP ,None,2273.0,1010121000.0,None,Pa,F6,10.1016/j.msea.2016.09.067 
+84,Ta90 W10,None,S,None,hardness,EXP ,None,2273.0,2000628000.0,None,Pa,F6,10.1016/j.msea.2016.09.067 
+85,Ta88.5 W10 TiC1.5,None,S,None,hardness,EXP ,None,2273.0,2392908000.0,None,Pa,F6,10.1016/j.msea.2016.09.067 
+86,Mo98.57 Ti1.16 Zr0.004 Co0.24 S0.29,None,S,None,hardness,EXP ,None,1723.0,1910000000.0,None,Pa,T2,10.1016/j.jallcom.2016.06.161
+87,Mo98.57 Ti1.16 Zr0.004 Co0.24 S0.29,None,S,None,hardness,EXP ,None,1773.0,1890000000.0,None,Pa,T2,10.1016/j.jallcom.2016.06.161
+88,Mo98.57 Ti1.16 Zr0.004 Co0.24 S0.29,None,S,None,hardness,EXP ,None,1798.0,1840000000.0,None,Pa,T2,10.1016/j.jallcom.2016.06.161
+89,Mo98.57 Ti1.16 Zr0.004 Co0.24 S0.29,None,S,None,hardness,EXP ,None,1823.0,1820000000.0,None,Pa,T2,10.1016/j.jallcom.2016.06.161
+90,Mo98.57 Ti1.16 Zr0.004 Co0.24 S0.29,None,S,None,hardness,EXP ,None,1848.0,1850000000.0,None,Pa,T2,10.1016/j.jallcom.2016.06.161
+91,Mo98.57 Ti1.16 Zr0.004 Co0.24 S0.29,None,S,None,hardness,EXP ,None,1848.0,1810000000.0,None,Pa,T2,10.1016/j.jallcom.2016.06.161
+92,Mo98.57 Ti1.16 Zr0.004 Co0.24 S0.29,None,S,None,hardness,EXP ,None,1723.0,1750000000.0,None,Pa,T2,10.1016/j.jallcom.2016.06.161
+93,Mo98.57 Ti1.16 Zr0.004 Co0.24 S0.29,None,S,None,hardness,EXP ,None,1723.0,1920000000.0,None,Pa,T2,10.1016/j.jallcom.2016.06.161
+94,Mo98.57 Ti1.16 Zr0.004 Co0.24 S0.29,None,S,None,hardness,EXP ,None,1723.0,1950000000.0,None,Pa,T2,10.1016/j.jallcom.2016.06.161
+95,Mo98.57 Ti1.16 Zr0.004 Co0.24 S0.29,None,S,None,hardness,EXP ,None,1723.0,2040000000.0,None,Pa,T2,10.1016/j.jallcom.2016.06.161
+96,Mo98.57 Ti1.16 Zr0.004 Co0.24 S0.29,None,S,None,hardness,EXP ,None,1973.0,1980000000.0,None,Pa,T2,10.1016/j.jallcom.2016.06.161
+97,Hf25 Nb25 Mo12.5 Ti25 V12.5 ,BCC,None,None,hardness,EXP ,None,None,3922800000.0,None,Pa,F3,10.1016/j.jallcom.2016.10.014 
+98,Hf23.3 Nb23.3 Mo11.6 Ti23.3 V11.6 Si6.9,BCC,None,None,hardness,EXP ,None,None,4805430000.0,None,Pa,F3,10.1016/j.jallcom.2016.10.014 
+99,Hf22.2 Nb22.2 Mo11.1 Ti22.2 V11.1 Si11.2,BCC,None,None,hardness,EXP ,None,None,5639025000.0,None,Pa,F3,10.1016/j.jallcom.2016.10.014 
+100,Hf21.3 Nb21.3 Mo10.6 Ti21.3 V10.6 Si14.9,BCC,None,None,hardness,EXP ,None,None,5884200000.0,None,Pa,F3,10.1016/j.jallcom.2016.10.014 
+101,Mo20 Nb20 Ta20 Ti20 V20,BCC,AC,None,hardness,EXP ,None,None,4344501000.0,None,Pa,T2,10.1016/j.jallcom.2016.11.188 
+102,Mo25 Nb25 Ta25 V25,BCC,AC,None,hardness,EXP ,None,None,4942728000.0,None,Pa,T2,10.1016/j.jallcom.2016.11.188 
+103,Nb25 Ta25 Ti25 V25,BCC,AC,None,hardness,EXP ,None,None,2922486000.0,None,Pa,T2,10.1016/j.jallcom.2016.11.188 
+104,Nb25 Ta25 V25 W25,BCC,AC,None,hardness,EXP ,None,None,4834851000.0,None,Pa,T2,10.1016/j.jallcom.2016.11.188 
+105,Nb20 Ta20 Ti20 V20 W20,BCC,AC,None,hardness,EXP ,None,None,4383729000.0,None,Pa,T2,10.1016/j.jallcom.2016.11.188 
+106,Mo25 Nb25 Ta25 W25,BCC,AC,None,hardness,EXP ,None,None,4452378000.0,None,Pa,T2,10.1016/j.jallcom.2016.11.188 
+107,Mo20 Nb20 Ta20 V20 W20 ,BCC,AC,None,hardness,EXP ,None,None,5246745000.0,None,Pa,T2,10.1016/j.jallcom.2016.11.188 
+108,Cr16.66 Mo16.66 Nb16.66 Ta16.66 V16.66 W16.66,BCC,AC,None,hardness,EXP ,None,None,6913935000.0,None,Pa,T2,10.1016/j.jallcom.2016.11.188 
+109,Hf20 Mo20 Ta20 Ti20 Zr20,BCC,AC,None,hardness,EXP ,None,None,5315394000.0,None,Pa,T2,10.1016/j.jallcom.2016.11.188 
+110,Hf16.66 Mo16.66 Nb16.66 Ta16.66 Ti16.66 Zr16.66 ,BCC,AC,None,hardness,EXP ,None,None,4952535000.0,None,Pa,T2,10.1016/j.jallcom.2016.11.188 
+111,Hf16.66 Nb16.66 Ta16.66 Ti16.66 V16.66 Zr16.66,BCC,AC,None,hardness,EXP ,None,None,5472306000.0,None,Pa,T2,10.1016/j.jallcom.2016.11.188 
+112,Hf20 Nb20 Ta20 Ti20 Zr20,BCC,AC,None,hardness,EXP ,None,None,3824730000.0,None,Pa,T2,10.1016/j.jallcom.2016.11.188 
+113,V20 Nb20 Mo20 Ta20 W20 ,BCC,S,None,hardness,EXP ,None,1423.0,11400000000.0,None,Pa,T1,10.1016/j.jallcom.2018.07.331 
+114,V20 Nb20 Mo20 Ta20 W20 ,BCC,S,None,hardness,EXP ,None,1523.0,10300000000.0,None,Pa,T1,10.1016/j.jallcom.2018.07.331 
+115,V20 Nb20 Mo20 Ta20 W20 ,BCC,S,None,hardness,EXP ,None,1623.0,10200000000.0,None,Pa,T1,10.1016/j.jallcom.2018.07.331 
+116,V20 Nb20 Mo20 Ta20 W20 ,BCC,S,None,hardness,EXP ,None,1773.0,8800000000.0,None,Pa,T1,10.1016/j.jallcom.2018.07.331 
+117,Nb25 Ta25 Ti25 V25,BCC,AC,None,hardness,EXP ,None,None,2922486000.0,None,Pa,F6,10.1016/j.jallcom.2018.10.230 
+118,Nb25 Ta25 Ti25 V25,BCC,S,None,hardness,EXP ,None,1773.0,4196415300.0,None,Pa,F6,10.1016/j.jallcom.2018.10.230 
+119,Nb25 Ta25 Ti25 V25,BCC,S,None,hardness,EXP ,None,1873.0,4357250100.0,None,Pa,F6,10.1016/j.jallcom.2018.10.230 
+120,Nb25 Ta25 Ti25 V25,BCC,S,None,hardness,EXP ,None,1973.0,5010396300.0,None,Pa,F6,10.1016/j.jallcom.2018.10.230 
+121,Nb36.3 Ti32.2 Zr31.5,BCC,HIP + A,None,hardness,EXP ,None,1673.0,3334380000.0,None,Pa,T8,10.1016/j.jallcom.2018.12.325 
+122,Nb32.1 Ta11.1 Ti28.1 Zr28.7,None,HIP + A,None,hardness,EXP ,None,1673.0,3501099000.0,None,Pa,T8,10.1016/j.jallcom.2018.12.325 
+123,Cr8.7 Nb34.4 Ti29.2 Zr27.7,None,HIP + A,None,hardness,EXP ,None,1673.0,4481799000.0,None,Pa,T8,10.1016/j.jallcom.2018.12.325 
+124,Nb32.6 Re10.3 Ti27.7 Zr29.4,None,HIP + A,None,hardness,EXP ,None,1673.0,4060098000.0,None,Pa,T8,10.1016/j.jallcom.2018.12.325 
+125,Co25 Cr25 Fe25 Ni25,None,AC,None,hardness,EXP ,None,1673.0,1569000000.0,None,Pa,T4,10.1016/j.jallcom.2013.12.210
+126,Co20 Cr20 Fe20 Ni20 Mn20,None,AC,None,hardness,EXP ,None,1673.0,1667000000.0,None,Pa,T4,10.1016/j.jallcom.2013.12.210
+127,Co20 Cr20 Fe20 Ni20 V20 ,None,AC,None,hardness,EXP ,None,1673.0,5139000000.0,None,Pa,T4,10.1016/j.jallcom.2013.12.210
+128,Co16.66 Cr16.66 Fe16.66 Ni16.66 Mn16.66 V16.66,None,AC,None,hardness,EXP ,None,1673.0,6375000000.0,None,Pa,T4,10.1016/j.jallcom.2013.12.210
+129,Co25 Cr25 Fe25 Ni25,None,A,None,hardness,EXP ,None,1673.0,1314000000.0,None,Pa,T4,10.1016/j.jallcom.2013.12.210
+130,Co20 Cr20 Fe20 Ni20 Mn20,None,A,None,hardness,EXP ,None,1673.0,1324000000.0,None,Pa,T4,10.1016/j.jallcom.2013.12.210
+131,Co20 Cr20 Fe20 Ni20 V20 ,None,A,None,hardness,EXP ,None,1673.0,5757000000.0,None,Pa,T4,10.1016/j.jallcom.2013.12.210
+132,Co16.66 Cr16.66 Fe16.66 Ni16.66 Mn16.66 V16.66,None,A,None,hardness,EXP ,None,1673.0,6237000000.0,None,Pa,T4,10.1016/j.jallcom.2013.12.210
+133,Mo47 Ni40 Si13 ,None,None,None,hardness,EXP ,None,None,9218580000.0,None,Pa,None,10.3390/ma9120986 
+134,Nb40.7 Ti12.8 Mo4.7 W1.3 Hf1.5 Cr2.7 Si20.8 Ge5.9 Al4.6 Sn5,beta,None,None,hardness,EXP ,None,None,1360000000000.0,None,Pa,T4,10.3390/ma11010069 
+135,Ti72.68 Nb23.83 Ta3.49,beta,S,None,hardness,EXP ,None,1523.0,3344187000.0,None,Pa,T3,10.3390/met9010076
+136,Ti70.89 Nb23.90 Ta3.51 Fe1.70,beta,S,None,hardness,EXP ,None,1523.0,3314766000.0,None,Pa,T3,10.3390/met9010076
+137,Ti69.10 Nb23.96 Ta3.52 Fe3.42,beta,S,None,hardness,EXP ,None,1523.0,3334380000.0,None,Pa,T3,10.3390/met9010076
+138,Ti67.30 Nb24.03 Ta3.53 Fe5.14,beta,S,None,hardness,EXP ,None,1523.0,3383415000.0,None,Pa,T3,10.3390/met9010076
+139,Ti72.68 Nb23.83 Ta3.49,beta,S,None,hardness,EXP ,None,1573.0,3275538000.0,None,Pa,T3,10.3390/met9010076
+140,Ti70.89 Nb23.90 Ta3.51 Fe1.70,beta,S,None,hardness,EXP ,None,1573.0,3334380000.0,None,Pa,T3,10.3390/met9010076
+141,Ti69.10 Nb23.96 Ta3.52 Fe3.42,beta,S,None,hardness,EXP ,None,1573.0,3334380000.0,None,Pa,T3,10.3390/met9010076
+142,Ti67.30 Nb24.03 Ta3.53 Fe5.14,beta,S,None,hardness,EXP ,None,1573.0,3246117000.0,None,Pa,T3,10.3390/met9010076
+143,Al9.1 Mo23.4 Nb22.8 Ti22.2 V22.5,None,AC,None,hardness,EXP ,None,None,4501413000.0,None,Pa,F4,10.4028/www.scientific.net/MSF.941.1111
+144,Al9.1 Mo23.4 Nb22.8 Ti22.2 V22.5,None,H,None,hardness,EXP ,None,1673.0,4776009000.0,None,Pa,F4,10.4028/www.scientific.net/MSF.941.1111
+145,Al9.1 Mo23.4 Nb22.8 Ti22.2 V22.5,None,S,None,hardness,EXP ,None,1273.0,4471992000.0,None,Pa,F4,10.4028/www.scientific.net/MSF.941.1111
+146,Al9.1 Mo23.4 Nb22.8 Ti22.2 V22.5,None,S,None,hardness,EXP ,None,1073.0,5060412000.0,None,Pa,F4,10.4028/www.scientific.net/MSF.941.1111
+147,Al15.8 Mo21.2 Nb20.9 Ti20.9 V21.2,None,AC,None,hardness,EXP ,None,None,4364115000.0,None,Pa,F4,10.4028/www.scientific.net/MSF.941.1111
+148,Al15.8 Mo21.2 Nb20.9 Ti20.9 V21.2,None,H,None,hardness,EXP ,None,1673.0,4501413000.0,None,Pa,F4,10.4028/www.scientific.net/MSF.941.1111
+149,Al15.8 Mo21.2 Nb20.9 Ti20.9 V21.2,None,S,None,hardness,EXP ,None,1273.0,4501413000.0,None,Pa,F4,10.4028/www.scientific.net/MSF.941.1111
+150,Al15.8 Mo21.2 Nb20.9 Ti20.9 V21.2,None,S,None,hardness,EXP ,None,1073.0,5119254000.0,None,Pa,F4,10.4028/www.scientific.net/MSF.941.1111
+151,Nb25 Mo25 Co25 Cr25,BCC,None,None,hardness,EXP ,None,None,9414720000.0,None,Pa,F4,10.1007/s11665-017-2799-z 
+152,Nb23.81 Mo23.81 Co23.81 Cr23.81 Ti4.76,BCC,None,None,hardness,EXP ,None,None,9022440000.0,None,Pa,F4,10.1007/s11665-017-2799-z 
+153,Nb22.73 Mo22.73 Co22.73 Cr22.73 Ti9.08,BCC,None,None,hardness,EXP ,None,None,8139810000.0,None,Pa,F4,10.1007/s11665-017-2799-z 
+154,Nb22.22 Mo22.22 Co22.22 Cr22.22 Ti11.1,BCC,None,None,hardness,EXP ,None,None,8237880000.0,None,Pa,F4,10.1007/s11665-017-2799-z 
+155,Nb20 Mo20 Co20 Cr20 Ti20,BCC,None,None,hardness,EXP ,None,None,8335950000.0,None,Pa,F4,10.1007/s11665-017-2799-z 
+156,Co24.9 Cr24.9 Mo24.9 Nb24.9 Ti0.4,BCC,AC,None,hardness,EXP ,None,None,8130003000.0,None,Pa,F7,10.1007/s11661-018-4472-z
+157,Co24.9 Cr24.9 Mo24.9 Nb24.9 Ti0.4,BCC + BCC ,S,None,hardness,EXP ,None,1073.0,9022440000.0,None,Pa,F7,10.1007/s11661-018-4472-z
+158,Co24.9 Cr24.9 Mo24.9 Nb24.9 Ti0.4,BCC + BCC + ?,S,? is precipitate,hardness,EXP ,None,1273.0,9130317000.0,None,Pa,F7,10.1007/s11661-018-4472-z
+159,Co24.9 Cr24.9 Mo24.9 Nb24.9 Ti0.4,BCC + CC + ?,S,? is precipitate,hardness,EXP ,None,1473.0,9414720000.0,None,Pa,F7,10.1007/s11661-018-4472-z
