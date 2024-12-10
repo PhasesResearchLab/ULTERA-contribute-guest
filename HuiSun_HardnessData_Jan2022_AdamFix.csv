@@ -5,147 +5,147 @@ Hand Fetched:,T
 Comment:,Data originally fetched by Hui; heavily edited and re-uploaded by Adam in Jan2022; additional bugfixing in Nov 2024
 
 id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
-1,Mo5 Si1 B2,Mo5SiB2,coated,None,hardness,EXP,None,1173.0,27000000000.0,None,None,P1, 10.1016/j.surfcoat.2015.09.015
-2,Mo,BCC,coated,None,hardness,EXP,None,298.0,3920000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-3,Mo0.98Si0.02,BCC,coated,None,hardness,EXP,None,298.0,8890000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-4,Mo0.96Si0.04,BCC,coated,None,hardness,EXP,None,298.0,12900000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-5,Mo0.92Si0.08,BCC,coated,None,hardness,EXP,None,298.0,14740000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-6,Mo0.87Si0.13,Mo3Si,coated,None,hardness,EXP,None,298.0,11470000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-7,Mo0.83Si0.17,Mo3Si,coated,None,hardness,EXP,None,298.0,15330000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-8,Mo0.60Si0.40,Mo5Si3,coated,None,hardness,EXP,None,298.0,20530000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-9,Mo0.58Si0.42,Mo5Si3,coated,None,hardness,EXP,None,298.0,20040000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-10,Mo0.82Si0.16B0.01,Mo3Si,coated,None,hardness,EXP,None,298.0,18070000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-11,Mo0.81Si0.17B0.02,Mo3Si,coated,None,hardness,EXP,None,298.0,17149999999.999998,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-12,Mo0.89Si0.10B0.01,BCC,coated,None,hardness,EXP,None,298.0,18650000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-13,Mo0.57Si0.37B0.05,Mo5Si3,coated,None,hardness,EXP,None,298.0,21910000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-14,Mo0.84Si0.14B0.02,Mo3Si,coated,None,hardness,EXP,None,298.0,17120000000.000002,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-15,Mo0.61Si0.33B0.06,Mo5Si3,coated,None,hardness,EXP,None,298.0,14650000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-16,Mo0.91Si0.07B0.02,BCC,coated,None,hardness,EXP,None,298.0,19810000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-17,Mo0.82Si0.15B0.03,Mo3Si,coated,None,hardness,EXP,None,298.0,17520000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-18,Mo0.59Si0.33B0.08,Mo5Si3,coated,None,hardness,EXP,None,298.0,19850000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-19,Mo0.82Si0.14B0.04,Mo3Si,coated,None,hardness,EXP,None,298.0,17930000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-20,Mo0.53Si0.37B0.10,Mo5Si3,coated,None,hardness,EXP,None,298.0,19280000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-21,Mo0.92Si0.06B0.02,BCC,coated,None,hardness,EXP,None,298.0,20350000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-22,Mo0.58Si0.28B0.14,Mo5Si3,coated,None,hardness,EXP,None,298.0,17470000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-23,Mo0.65Si0.21B0.14,amorphous,coated,None,hardness,EXP,None,298.0,18610000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-24,Mo0.64Si0.20B0.16,amorphous,coated,None,hardness,EXP,None,298.0,16469999999.999998,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-25,Mo0.94Si0.03B0.03,amorphous,coated,None,hardness,EXP,None,298.0,19290000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-26,Mo0.68Si0.11B0.21,amorphous,coated,None,hardness,EXP,None,298.0,17470000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-27,Mo0.72B0.28,amorphous,coated,None,hardness,EXP,None,298.0,19050000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-28,Mo0.83B0.17,amorphous,coated,None,hardness,EXP,None,298.0,20430000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
-29,TiZrHfVNb,BCC,None,None,hardness,EXP,None,298.0,3274165020.0000005,None,None,F4,2015_Guo_MicrostructurePropertiesNovel
-30,TiZrHfVTa,BCC,None,None,hardness,EXP,None,298.0,3661541520.0,None,None,F4,2015_Guo_MicrostructurePropertiesNovel
-31,TiZrNbMoV,BCC+laves,None,None,hardness,EXP,None,298.0,4255747650.0000005,None,None,F4,2015_Guo_MicrostructurePropertiesNovel
-32,TiZrHfMoV,BCC,None,None,hardness,EXP,None,298.0,4671074100.000001,None,None,F4,2015_Guo_MicrostructurePropertiesNovel
-33,ZrNbMoHfV,BCC+laves,None,None,hardness,EXP,None,298.0,5175840390.0,None,None,F4,2015_Guo_MicrostructurePropertiesNovel
-34,Nb,BCC,None,None,hardness,EXP,None,298.0,3844344000.0,None,None,P1,10.1016/j.msec.2015.04.005
-35,Mo,BCC,None,None,hardness,EXP,None,298.0,1530000000.0,None,None,T1,10.1016/j.msec.2015.04.005
-36,Nb,BCC,None,None,hardness,EXP,None,298.0,1320000000.0,None,None,T1,10.1016/j.msec.2015.04.005
-37,Ta ,BCC,None,None,hardness,EXP,None,298.0,873000000.0,None,None,T1,10.1016/j.msec.2015.04.005
-38,Ti,HCP,None,None,hardness,EXP,None,298.0,970000000.0,None,None,T1,10.1016/j.msec.2015.04.005
-39,V,BCC,None,None,hardness,EXP,None,298.0,628000000.0,None,None,T1,10.1016/j.msec.2015.04.005
-40,W,BCC,None,None,hardness,EXP,None,298.0,3430000000.0,None,None,T1,10.1016/j.msec.2015.04.005
-41,MoNbTaTiW,BCC,None,None,hardness,EXP,None,298.0,1954000000.0,None,None,T1,10.1016/j.msec.2015.04.005
-42,Ta ,BCC,None,10 turns at HPT,hardness,EXP,None,298.0,4217010000.0,None,None,P182,10.1016/j.msea.2015.04.053
-43,W25Fe45B30,amorphous,None,None,hardness,EXP,None,298.0,13141380000.000002,None,None,T1,10.1007/s40195-015-0254-4
-44,W27.5Fe40B32.5,amorphous,None,None,hardness,EXP,None,298.0,15151815000.0,None,None,T1,10.1007/s40195-015-0254-4
-45,W27.5Fe45B27.5,amorphous,None,None,hardness,EXP,None,298.0,13298292000.000002,None,None,T1,10.1007/s40195-015-0254-4
-46,W30 Fe40B30,amorphous,None,None,hardness,EXP,None,298.0,15769656000.0,None,None,T1,10.1007/s40195-015-0254-4
-47,W30Fe45B25,amorphous,None,None,hardness,EXP,None,298.0,14563395000.0,None,None,T1,10.1007/s40195-015-0254-4
-48,W32.5Fe40B27.5,amorphous,None,None,hardness,EXP,None,298.0,15142008000.0,None,None,T1,10.1007/s40195-015-0254-4
-49,W35Fe35B30,amorphous,None,None,hardness,EXP,None,298.0,16024638000.0,None,None,T1,10.1007/s40195-015-0254-4
-50,Mo20W20Al20Cr20Ti20,BCC+BCC,AC,None,None,None,None,298.0,None,None,None,None,10.1016/j.jallcom.2014.11.012
-51,Mo20W20Al20Cr20Ti20,BCC,HT,HT at 1200c,hardness,EXP,None,298.0,7845600000.0,None,None,F7,10.1016/j.jallcom.2014.11.012
-52,AlNbTiV,BCC,AC,None,hardness,EXP,None,298.0,4315000000.0,None,None,P154,10.1016/j.matlet.2014.11.162
-53,AlNbTiV,BCC,A,None,hardness,EXP,None,298.0,4394000000.0,None,None,P154,10.1016/j.matlet.2014.11.162
-54,CuNiCoFeCr,FCC,None,None,hardness,EXP,None,298.0,1304331000.0000002,None,None,T1,10.1016/j.intermet.2014.10.010
-55,CuNiCoFeCrAl1.3,FCC,None,None,hardness,EXP,None,298.0,1814295000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-56,CuNiCoFeCrAl1.5,FCC,None,None,hardness,EXP,None,298.0,2059470000.0000002,None,None,T1,10.1016/j.intermet.2014.10.010
-57,CuNiCoFeCrAl2.8,BCC,None,None,hardness,EXP,None,298.0,6423585000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-58,CuNiCoFeCrAl3.0,BCC,None,None,hardness,EXP,None,298.0,6227445000.000001,None,None,T1,10.1016/j.intermet.2014.10.010
-59,CuNiCoFeCrAl0.5 V0.2,FCC,None,None,hardness,EXP,None,298.0,1981014000.0000002,None,None,T1,10.1016/j.intermet.2014.10.010
-60,CuNiFeCrMo,FCC,None,None,hardness,EXP,None,298.0,2579241000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-61,CuNi2 FeCrAl0.2,FCC,None,None,hardness,EXP,None,298.0,1569120000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-62,CuNi2 FeCrAl0.4,FCC,None,None,hardness,EXP,None,298.0,1686804000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-63,CuNi2 FeCrAl0.5,FCC,None,None,hardness,EXP,None,298.0,1961400000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-64,CuNi2 FeCrAl0.7,FCC,None,None,hardness,EXP,None,298.0,2353680000.0000005,None,None,T1,10.1016/j.intermet.2014.10.010
-65,CuNi2 FeCrAl1.6,BCC,None,None,hardness,EXP,None,298.0,5462499000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-66,CuNi2 FeCrAl1.8,BCC,None,None,hardness,EXP,None,298.0,5393850000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-67,CuNi2 FeCrAl2.0,BCC,None,None,hardness,EXP,None,298.0,5589990000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-68,CuNi2 FeCrAl2.2,BCC,None,None,hardness,EXP,None,298.0,5688060000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-69,CuNi2 FeCrAl2.5,BCC,None,None,hardness,EXP,None,298.0,5884200000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-70,Cu0.5 NiCoFeCr,FCC,None,None,hardness,EXP,None,298.0,1706418000.0000002,None,None,T1,10.1016/j.intermet.2014.10.010
-71,Cu0.5 NiFeCrAlCo1.0,BCC,None,None,hardness,EXP,None,298.0,4491606000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-72,Cu0.5 CoFeCrAlNi3.0,FCC,None,None,hardness,EXP,None,298.0,4864272000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-73,Cu0.25 NiCoFeCrAl,BCC,None,None,hardness,EXP,None,298.0,1216068000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-74,NiCoFeCr1.15,FCC,None,None,hardness,EXP,None,298.0,1137612000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-75,NiCoFeCr,FCC,None,None,hardness,EXP,None,298.0,2059470000.0000002,None,None,T1,10.1016/j.intermet.2014.10.010
-76,NiCoFeCrMo0.1 Al0.3,FCC,None,None,hardness,EXP,None,298.0,3432450000.0000005,None,None,T1,10.1016/j.intermet.2014.10.010
-77,NiCoFeCrTi0.1 Al0.3,FCC,None,None,hardness,EXP,None,298.0,1078770000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-78,NiCoFeCrAl0.375,FCC,None,None,hardness,EXP,None,298.0,1284717000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-79,NiCoFeCrAl1.25,BCC,None,None,hardness,EXP,None,298.0,4776009000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-80,NiCoFeCrAl1.5,BCC,None,None,hardness,EXP,None,298.0,4820140500.0,None,None,T1,10.1016/j.intermet.2014.10.010
-81,NiCoFeCrAl2.0,BCC,None,None,hardness,EXP,None,298.0,5133964500.0,None,None,T1,10.1016/j.intermet.2014.10.010
-82,NiCoFeCrAl2.5,BCC,None,None,hardness,EXP,None,298.0,5771419500.0,None,None,T1,10.1016/j.intermet.2014.10.010
-83,NiCoFeCrAl3.0,BCC,None,None,hardness,EXP,None,298.0,6109761000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-84,NiCoFeMnCr,FCC,None,None,hardness,EXP,None,298.0,2893065000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-85,WMoTaNb,BCC,None,None,hardness,EXP,None,298.0,4369018500.0,None,None,T1,10.1016/j.intermet.2014.10.010
-86,WMoTaNbV,BCC,None,None,hardness,EXP,None,298.0,5148675000.0,None,None,T1,10.1016/j.intermet.2014.10.010
-87,TaNbHfZrTi,BCC,None,None,hardness,EXP,None,298.0,3752158200.0000005,None,None,T1,10.1016/j.intermet.2014.10.010
-88,NbVZrTi,BCC,None,None,hardness,EXP,None,298.0,3221599500.0000005,None,None,T1,10.1016/j.intermet.2014.10.010
-89,NbVHfZrTi,BCC,None,None,hardness,EXP,None,298.0,3726660000.0000005,None,None,T1,10.1016/j.intermet.2014.10.010
-90,Ir88W4Al8,FCC+L12,None,None,hardness,EXP,None,35.7093649085,4938775523.374544,None,None,F11,10.1016/j.intermet.2014.07.021
-91,Ir88W4Al8,FCC+L12,None,None,hardness,EXP,None,289.4337997847,4559037054.71666,None,None,F11,10.1016/j.intermet.2014.07.021
-92,Ir88W4Al8,FCC+L12,None,None,hardness,EXP,None,580.7470398278,3944188036.7041183,None,None,F11,10.1016/j.intermet.2014.07.021
-93,Ir88W4Al8,FCC+L12,None,None,hardness,EXP,None,872.0602798708,3547017757.0093436,None,None,F11,10.1016/j.intermet.2014.07.021
-94,Ir88W4Al8,FCC+L12,None,None,hardness,EXP,None,1164.313240043,3304507783.0900407,None,None,F11,10.1016/j.intermet.2014.07.021
-95,Ir88W4Al8,FCC+L12,None,None,hardness,EXP,None,1455.6264800861,3073460751.058822,None,None,F11,10.1016/j.intermet.2014.07.021
-96,Ir80W10Al10,FCC+L12,None,None,hardness,EXP,None,34.7696447793,6410977367.131774,None,None,F11,10.1016/j.intermet.2014.07.021
-97,Ir80W10Al10,FCC+L12,None,None,hardness,EXP,None,141.8977395048,6083756314.321498,None,None,F11,10.1016/j.intermet.2014.07.021
-98,Ir80W10Al10,FCC+L12,None,None,hardness,EXP,None,288.4940796555,5836473711.557995,None,None,F11,10.1016/j.intermet.2014.07.021
-99,Ir80W10Al10,FCC+L12,None,None,hardness,EXP,None,434.1506996771,5520456620.776033,None,None,F11,10.1016/j.intermet.2014.07.021
-100,Ir80W10Al10,FCC+L12,None,None,hardness,EXP,None,579.8073196986,5336192450.554807,None,None,F11,10.1016/j.intermet.2014.07.021
-101,Ir80W10Al10,FCC+L12,None,None,hardness,EXP,None,728.2831001076,5071712351.865637,None,None,F11,10.1016/j.intermet.2014.07.021
-102,Ir80W10Al10,FCC+L12,None,None,hardness,EXP,None,873.0,5139503413.252112,None,None,F11,10.1016/j.intermet.2014.07.021
-103,Ir80W10Al10,FCC+L12,None,None,hardness,EXP,None,1021.475780409,4915122029.516203,None,None,F11,10.1016/j.intermet.2014.07.021
-104,Ir80W10Al10,FCC+L12,None,None,hardness,EXP,None,1163.3735199139,4541845724.978115,None,None,F11,10.1016/j.intermet.2014.07.021
-105,Ir80W10Al10,FCC+L12,None,None,hardness,EXP,None,1309.0301399354,4644000947.280258,None,None,F11,10.1016/j.intermet.2014.07.021
-106,Ir80W10Al10,FCC+L12,None,None,hardness,EXP,None,1455.6264800861,4310792526.759753,None,None,F11,10.1016/j.intermet.2014.07.021
-107,Ir77W10.5Al12.5,FCC+L12,None,None,hardness,EXP,None,33.8299246502,7287426874.440408,None,None,F11,10.1016/j.intermet.2014.07.021
-108,Ir77W10.5Al12.5,FCC+L12,None,None,hardness,EXP,None,287.5543595264,6243195415.128312,None,None,F11,10.1016/j.intermet.2014.07.021
-109,Ir77W10.5Al12.5,FCC+L12,None,None,hardness,EXP,None,580.7470398278,5828827639.50786,None,None,F11,10.1016/j.intermet.2014.07.021
-110,Ir77W10.5Al12.5,FCC+L12,None,None,hardness,EXP,None,873.0,5351453763.7193985,None,None,F11,10.1016/j.intermet.2014.07.021
-111,Ir77W10.5Al12.5,FCC+L12,None,None,hardness,EXP,None,1163.3735199139,5091770958.622973,None,None,F11,10.1016/j.intermet.2014.07.021
-112,Ir77W10.5Al12.5,FCC+L12,None,None,hardness,EXP,None,1454.6867599569,4648773576.124457,None,None,F11,10.1016/j.intermet.2014.07.021
-113,Ti20Zr20Hf20Nb20V20,BCC+?,A,Aneeling at 298,hardness,EXP,None,298.0,3800000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
-114,Ti20Zr20Hf20Nb20V20,BCC,A,Aneeling at 573,hardness,EXP,None,298.0,3850000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
-115,Ti20Zr20Hf20Nb20V20,BCC,A,Aneeling at 773,hardness,EXP,None,298.0,3820000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
-116,Ti20Zr20Hf20Nb20V20,BCC,A,Aneeling at 973,hardness,EXP,None,298.0,3860000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
-117,Ti20Zr20Hf20Nb20V20,BCC+V2Hf,A,Aneeling at 1173,hardness,EXP,None,298.0,3810000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
-118,Ti20Zr20Hf20Nb20Cr20,BCC+Hf2Cr+Nb2Cr,A,Aneeling at 298,hardness,EXP,None,298.0,4550000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
-119,Ti20Zr20Hf20Nb20Cr20,BCC+Hf2Cr+Nb2Cr,A,Aneeling at 573,hardness,EXP,None,298.0,4570000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
-120,Ti20Zr20Hf20Nb20Cr20,BCC+Hf2Cr+Nb2Cr,A,Aneeling at 773,hardness,EXP,None,298.0,4700000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
-121,Ti20Zr20Hf20Nb20Cr20,BCC+Hf2Cr+Nb2Cr,A,Aneeling at 973,hardness,EXP,None,298.0,4800000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
-122,Ti20Zr20Hf20Nb20Cr20,BCC+Hf2Cr+Nb2Cr,A,Aneeling at 1173,hardness,EXP,None,298.0,4500000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
-123,Ti20Zr20Hf20Nb20Ta20,BCC,A,Aneeling at 296,hardness,EXP,None,298.0,3830000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
-124,W20Nb20Mo20Ta20 ,BCC,A,Aneeling at 296,hardness,EXP,None,298.0,4460000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
-125,W20Nb20Mo20Ta20V20,BCC,A,Aneeling at 296,hardness,EXP,None,298.0,5250000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
-126,AlMo0.5NbTa0.5TiZr,BCC+BCC,None,None,hardness,EXP,None,298.0,5800000000.0,None,None,T2,10.1007/s11837-014-1066-0
-127,AlNb1.5Ta0.5Ti1.5Zr0.5,BCC,None,None,hardness,EXP,None,298.0,4000000000.0,None,None,T2,10.1007/s11837-014-1066-0
-128,Al0.4Hf0.6NbTaTiZr,BCC,None,None,hardness,EXP,None,298.0,4900000000.0,None,None,T2,10.1007/s11837-014-1066-0
-129,Al0.3NbTaTi1.4Zr1.3,BCC+BCC,None,None,hardness,EXP,None,298.0,4800000000.0,None,None,T2,10.1007/s11837-014-1066-0
-130,Al0.3NbTa0.8Ti1.4V0.2Zr1.3,BCC,None,None,hardness,EXP,None,298.0,4900000000.0,None,None,T2,10.1007/s11837-014-1066-0
-131,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+BCC,None,None,hardness,EXP,None,298.0,5200000000.0,None,None,T2,10.1007/s11837-014-1066-0
-132,ZrNbMoHfV,BCC+laves,None,None,hardness,EXP,None,298.0,5285973000.0,None,None,P769,10.1179/1432891714Z.000000000785
-133,W84Cr7Fe9,BCC+mu,BM,None,hardness,EXP,None,298.0,13500000000.0,None,None,P1,10.1007/s11661-014-2286-1
-134,Ti70Si7.5B22.5,BCC+Ti6Si2B+TiB+Ti5Si3,HP,None,hardness,EXP,None,298.0,8155010850.0,None,None,T2,10.1590/S1516-14392014005000076
-135,CrMo0.5NbTa0.5TiZr,BCC+BCC+laves,None,None,hardness,EXP,None,298.0,5300000000.0,None,None,T3,10.1016/j.actamat.2014.01.029
-136,HfNbTaTiZr,BCC,None,None,hardness,EXP,None,298.0,3800000000.0,None,None,T3,10.1016/j.actamat.2014.01.029
-137,Ti45 Ni45 Ti5 C5,TiC+TiNi,None,None,hardness,EXP,None,298.0,5800000000.0,None,None,T4,10.3103/S106782121401012X
-138,Ti40 Ni40 Ti10 C10,TiC+TiNi,None,None,hardness,EXP,None,298.0,7500000000.0,None,None,T4,10.3103/S106782121401012X
-139,Ti35 Ni35 Ti15 C15,TiC+TiNi+Ni3Ti,None,None,hardness,EXP,None,298.0,10200000000.0,None,None,T4,10.3103/S106782121401012X
-140,Ti30 Ni30 Ti20 C20,TiC+TiNi+Ni3Ti,None,None,hardness,EXP,None,298.0,11700000000.0,None,None,T4,10.3103/S106782121401012X
-141,NbTiVZr,BCC,None,None,hardness,EXP,None,298.0,3290000000.0,None,None,T1,10.1016/j.actamat.2012.11.032
-142,NbTiV2Zr,BCC+BCC+BCC,None,None,hardness,EXP,None,298.0,2990000000.0,None,None,T1,10.1016/j.actamat.2012.11.032
-143,CrNbTiZr,BCC+laves,None,None,hardness,EXP,None,298.0,4099999999.9999995,None,None,T1,10.1016/j.actamat.2012.11.032
-144,CrNbTiVZr,BCC+laves,None,None,hardness,EXP,None,298.0,4720000000.0,None,None,T1,10.1016/j.actamat.2012.11.032
+1,Mo5 Si1 B2,Mo5SiB2,coated,None,hardness,EXP,None,1173,27000000000.0,None,None,P1, 10.1016/j.surfcoat.2015.09.015
+2,Mo,BCC,coated,None,hardness,EXP,None,298,3920000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+3,Mo0.98Si0.02,BCC,coated,None,hardness,EXP,None,298,8890000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+4,Mo0.96Si0.04,BCC,coated,None,hardness,EXP,None,298,12900000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+5,Mo0.92Si0.08,BCC,coated,None,hardness,EXP,None,298,14740000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+6,Mo0.87Si0.13,Mo3Si,coated,None,hardness,EXP,None,298,11470000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+7,Mo0.83Si0.17,Mo3Si,coated,None,hardness,EXP,None,298,15330000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+8,Mo0.60Si0.40,Mo5Si3,coated,None,hardness,EXP,None,298,20530000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+9,Mo0.58Si0.42,Mo5Si3,coated,None,hardness,EXP,None,298,20040000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+10,Mo0.82Si0.16B0.01,Mo3Si,coated,None,hardness,EXP,None,298,18070000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+11,Mo0.81Si0.17B0.02,Mo3Si,coated,None,hardness,EXP,None,298,17149999999.999998,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+12,Mo0.89Si0.10B0.01,BCC,coated,None,hardness,EXP,None,298,18650000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+13,Mo0.57Si0.37B0.05,Mo5Si3,coated,None,hardness,EXP,None,298,21910000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+14,Mo0.84Si0.14B0.02,Mo3Si,coated,None,hardness,EXP,None,298,17120000000.000002,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+15,Mo0.61Si0.33B0.06,Mo5Si3,coated,None,hardness,EXP,None,298,14650000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+16,Mo0.91Si0.07B0.02,BCC,coated,None,hardness,EXP,None,298,19810000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+17,Mo0.82Si0.15B0.03,Mo3Si,coated,None,hardness,EXP,None,298,17520000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+18,Mo0.59Si0.33B0.08,Mo5Si3,coated,None,hardness,EXP,None,298,19850000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+19,Mo0.82Si0.14B0.04,Mo3Si,coated,None,hardness,EXP,None,298,17930000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+20,Mo0.53Si0.37B0.10,Mo5Si3,coated,None,hardness,EXP,None,298,19280000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+21,Mo0.92Si0.06B0.02,BCC,coated,None,hardness,EXP,None,298,20350000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+22,Mo0.58Si0.28B0.14,Mo5Si3,coated,None,hardness,EXP,None,298,17470000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+23,Mo0.65Si0.21B0.14,amorphous,coated,None,hardness,EXP,None,298,18610000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+24,Mo0.64Si0.20B0.16,amorphous,coated,None,hardness,EXP,None,298,16469999999.999998,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+25,Mo0.94Si0.03B0.03,amorphous,coated,None,hardness,EXP,None,298,19290000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+26,Mo0.68Si0.11B0.21,amorphous,coated,None,hardness,EXP,None,298,17470000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+27,Mo0.72B0.28,amorphous,coated,None,hardness,EXP,None,298,19050000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+28,Mo0.83B0.17,amorphous,coated,None,hardness,EXP,None,298,20430000000.0,None,None,F4, 10.1016/j.surfcoat.2015.09.015
+29,TiZrHfVNb,BCC,None,None,hardness,EXP,None,298,3274165020.0000005,None,None,F4,2015_Guo_MicrostructurePropertiesNovel
+30,TiZrHfVTa,BCC,None,None,hardness,EXP,None,298,3661541520.0,None,None,F4,2015_Guo_MicrostructurePropertiesNovel
+31,TiZrNbMoV,BCC+laves,None,None,hardness,EXP,None,298,4255747650.0000005,None,None,F4,2015_Guo_MicrostructurePropertiesNovel
+32,TiZrHfMoV,BCC,None,None,hardness,EXP,None,298,4671074100.000001,None,None,F4,2015_Guo_MicrostructurePropertiesNovel
+33,ZrNbMoHfV,BCC+laves,None,None,hardness,EXP,None,298,5175840390.0,None,None,F4,2015_Guo_MicrostructurePropertiesNovel
+34,Nb,BCC,None,None,hardness,EXP,None,298,3844344000.0,None,None,P1,10.1016/j.msec.2015.04.005
+35,Mo,BCC,None,None,hardness,EXP,None,298,1530000000.0,None,None,T1,10.1016/j.msec.2015.04.005
+36,Nb,BCC,None,None,hardness,EXP,None,298,1320000000.0,None,None,T1,10.1016/j.msec.2015.04.005
+37,Ta ,BCC,None,None,hardness,EXP,None,298,873000000.0,None,None,T1,10.1016/j.msec.2015.04.005
+38,Ti,HCP,None,None,hardness,EXP,None,298,970000000.0,None,None,T1,10.1016/j.msec.2015.04.005
+39,V,BCC,None,None,hardness,EXP,None,298,628000000.0,None,None,T1,10.1016/j.msec.2015.04.005
+40,W,BCC,None,None,hardness,EXP,None,298,3430000000.0,None,None,T1,10.1016/j.msec.2015.04.005
+41,MoNbTaTiW,BCC,None,None,hardness,EXP,None,298,1954000000.0,None,None,T1,10.1016/j.msec.2015.04.005
+42,Ta ,BCC,None,10 turns at HPT,hardness,EXP,None,298,4217010000.0,None,None,P182,10.1016/j.msea.2015.04.053
+43,W25Fe45B30,amorphous,None,None,hardness,EXP,None,298,13141380000.000002,None,None,T1,10.1007/s40195-015-0254-4
+44,W27.5Fe40B32.5,amorphous,None,None,hardness,EXP,None,298,15151815000.0,None,None,T1,10.1007/s40195-015-0254-4
+45,W27.5Fe45B27.5,amorphous,None,None,hardness,EXP,None,298,13298292000.000002,None,None,T1,10.1007/s40195-015-0254-4
+46,W30 Fe40B30,amorphous,None,None,hardness,EXP,None,298,15769656000.0,None,None,T1,10.1007/s40195-015-0254-4
+47,W30Fe45B25,amorphous,None,None,hardness,EXP,None,298,14563395000.0,None,None,T1,10.1007/s40195-015-0254-4
+48,W32.5Fe40B27.5,amorphous,None,None,hardness,EXP,None,298,15142008000.0,None,None,T1,10.1007/s40195-015-0254-4
+49,W35Fe35B30,amorphous,None,None,hardness,EXP,None,298,16024638000.0,None,None,T1,10.1007/s40195-015-0254-4
+50,Mo20W20Al20Cr20Ti20,BCC+BCC,AC,None,None,None,None,298,None,None,None,None,10.1016/j.jallcom.2014.11.012
+51,Mo20W20Al20Cr20Ti20,BCC,HT,HT at 1200c,hardness,EXP,None,298,7845600000.0,None,None,F7,10.1016/j.jallcom.2014.11.012
+52,AlNbTiV,BCC,AC,None,hardness,EXP,None,298,4315000000.0,None,None,P154,10.1016/j.matlet.2014.11.162
+53,AlNbTiV,BCC,A,None,hardness,EXP,None,298,4394000000.0,None,None,P154,10.1016/j.matlet.2014.11.162
+54,CuNiCoFeCr,FCC,None,data fetched from a review,hardness,EXP,None,298,1304331000.0000002,None,None,T1,10.1016/j.intermet.2014.10.010
+55,CuNiCoFeCrAl1.3,FCC,None,data fetched from a review,hardness,EXP,None,298,1814295000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+56,CuNiCoFeCrAl1.5,FCC,None,data fetched from a review,hardness,EXP,None,298,2059470000.0000002,None,None,T1,10.1016/j.intermet.2014.10.010
+57,CuNiCoFeCrAl2.8,BCC,None,data fetched from a review,hardness,EXP,None,298,6423585000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+58,CuNiCoFeCrAl3.0,BCC,None,data fetched from a review,hardness,EXP,None,298,6227445000.000001,None,None,T1,10.1016/j.intermet.2014.10.010
+59,CuNiCoFeCrAl0.5 V0.2,FCC,None,data fetched from a review,hardness,EXP,None,298,1981014000.0000002,None,None,T1,10.1016/j.intermet.2014.10.010
+60,CuNiFeCrMo,FCC,None,data fetched from a review,hardness,EXP,None,298,2579241000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+61,CuNi2 FeCrAl0.2,FCC,None,data fetched from a review,hardness,EXP,None,298,1569120000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+62,CuNi2 FeCrAl0.4,FCC,None,data fetched from a review,hardness,EXP,None,298,1686804000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+63,CuNi2 FeCrAl0.5,FCC,None,data fetched from a review,hardness,EXP,None,298,1961400000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+64,CuNi2 FeCrAl0.7,FCC,None,data fetched from a review,hardness,EXP,None,298,2353680000.0000005,None,None,T1,10.1016/j.intermet.2014.10.010
+65,CuNi2 FeCrAl1.6,BCC,None,data fetched from a review,hardness,EXP,None,298,5462499000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+66,CuNi2 FeCrAl1.8,BCC,None,data fetched from a review,hardness,EXP,None,298,5393850000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+67,CuNi2 FeCrAl2.0,BCC,None,data fetched from a review,hardness,EXP,None,298,5589990000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+68,CuNi2 FeCrAl2.2,BCC,None,data fetched from a review,hardness,EXP,None,298,5688060000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+69,CuNi2 FeCrAl2.5,BCC,None,data fetched from a review,hardness,EXP,None,298,5884200000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+70,Cu0.5 NiCoFeCr,FCC,None,data fetched from a review,hardness,EXP,None,298,1706418000.0000002,None,None,T1,10.1016/j.intermet.2014.10.010
+71,Cu0.5 NiFeCrAlCo1.0,BCC,None,data fetched from a review,hardness,EXP,None,298,4491606000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+72,Cu0.5 CoFeCrAlNi3.0,FCC,None,data fetched from a review,hardness,EXP,None,298,4864272000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+73,Cu0.25 NiCoFeCrAl,BCC,None,data fetched from a review,hardness,EXP,None,298,1216068000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+74,NiCoFeCr1.15,FCC,None,data fetched from a review,hardness,EXP,None,298,1137612000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+75,NiCoFeCr,FCC,None,data fetched from a review,hardness,EXP,None,298,2059470000.0000002,None,None,T1,10.1016/j.intermet.2014.10.010
+76,NiCoFeCrMo0.1 Al0.3,FCC,None,data fetched from a review,hardness,EXP,None,298,3432450000.0000005,None,None,T1,10.1016/j.intermet.2014.10.010
+77,NiCoFeCrTi0.1 Al0.3,FCC,None,data fetched from a review,hardness,EXP,None,298,1078770000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+78,NiCoFeCrAl0.375,FCC,None,data fetched from a review,hardness,EXP,None,298,1284717000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+79,NiCoFeCrAl1.25,BCC,None,data fetched from a review,hardness,EXP,None,298,4776009000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+80,NiCoFeCrAl1.5,BCC,None,data fetched from a review,hardness,EXP,None,298,4820140500.0,None,None,T1,10.1016/j.intermet.2014.10.010
+81,NiCoFeCrAl2.0,BCC,None,data fetched from a review,hardness,EXP,None,298,5133964500.0,None,None,T1,10.1016/j.intermet.2014.10.010
+82,NiCoFeCrAl2.5,BCC,None,data fetched from a review,hardness,EXP,None,298,5771419500.0,None,None,T1,10.1016/j.intermet.2014.10.010
+83,NiCoFeCrAl3.0,BCC,None,data fetched from a review,hardness,EXP,None,298,6109761000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+84,NiCoFeMnCr,FCC,None,data fetched from a review,hardness,EXP,None,298,2893065000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+85,WMoTaNb,BCC,None,data fetched from a review,hardness,EXP,None,298,4369018500.0,None,None,T1,10.1016/j.intermet.2014.10.010
+86,WMoTaNbV,BCC,None,data fetched from a review,hardness,EXP,None,298,5148675000.0,None,None,T1,10.1016/j.intermet.2014.10.010
+87,TaNbHfZrTi,BCC,None,data fetched from a review,hardness,EXP,None,298,3752158200.0000005,None,None,T1,10.1016/j.intermet.2014.10.010
+88,NbVZrTi,BCC,None,data fetched from a review,hardness,EXP,None,298,3221599500.0000005,None,None,T1,10.1016/j.intermet.2014.10.010
+89,NbVHfZrTi,BCC,None,data fetched from a review,hardness,EXP,None,298,3726660000.0000005,None,None,T1,10.1016/j.intermet.2014.10.010
+90,Ir88W4Al8,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,298,4938775523.374544,None,None,F11,10.1016/j.intermet.2014.07.021
+91,Ir88W4Al8,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,473,4559037054.71666,None,None,F11,10.1016/j.intermet.2014.07.021
+92,Ir88W4Al8,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,673,3944188036.7041183,None,None,F11,10.1016/j.intermet.2014.07.021
+93,Ir88W4Al8,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,873,3547017757.0093436,None,None,F11,10.1016/j.intermet.2014.07.021
+94,Ir88W4Al8,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,1073,3304507783.0900407,None,None,F11,10.1016/j.intermet.2014.07.021
+95,Ir88W4Al8,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,1273,3073460751.058822,None,None,F11,10.1016/j.intermet.2014.07.021
+96,Ir80W10Al10,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,298,6410977367.131774,None,None,F11,10.1016/j.intermet.2014.07.021
+97,Ir80W10Al10,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,373,6083756314.321498,None,None,F11,10.1016/j.intermet.2014.07.021
+98,Ir80W10Al10,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,473,5836473711.557995,None,None,F11,10.1016/j.intermet.2014.07.021
+99,Ir80W10Al10,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,573,5520456620.776033,None,None,F11,10.1016/j.intermet.2014.07.021
+100,Ir80W10Al10,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,673,5336192450.554807,None,None,F11,10.1016/j.intermet.2014.07.021
+101,Ir80W10Al10,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,773,5071712351.865637,None,None,F11,10.1016/j.intermet.2014.07.021
+102,Ir80W10Al10,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,873,5139503413.252112,None,None,F11,10.1016/j.intermet.2014.07.021
+103,Ir80W10Al10,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,973,4915122029.516203,None,None,F11,10.1016/j.intermet.2014.07.021
+104,Ir80W10Al10,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,1073,4541845724.978115,None,None,F11,10.1016/j.intermet.2014.07.021
+105,Ir80W10Al10,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,1173,4644000947.280258,None,None,F11,10.1016/j.intermet.2014.07.021
+106,Ir80W10Al10,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,1273,4310792526.759753,None,None,F11,10.1016/j.intermet.2014.07.021
+107,Ir77W10.5Al12.5,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,298,7287426874.440408,None,None,F11,10.1016/j.intermet.2014.07.021
+108,Ir77W10.5Al12.5,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,473,6243195415.128312,None,None,F11,10.1016/j.intermet.2014.07.021
+109,Ir77W10.5Al12.5,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,673,5828827639.50786,None,None,F11,10.1016/j.intermet.2014.07.021
+110,Ir77W10.5Al12.5,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,873,5351453763.7193985,None,None,F11,10.1016/j.intermet.2014.07.021
+111,Ir77W10.5Al12.5,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,1073,5091770958.622973,None,None,F11,10.1016/j.intermet.2014.07.021
+112,Ir77W10.5Al12.5,FCC+L12,AAM+H+AT,homogenized at 1900*C for 1h followed by aging at 1300*C for 72h,hardness,EXP,None,1273,4648773576.124457,None,None,F11,10.1016/j.intermet.2014.07.021
+113,Ti20Zr20Hf20Nb20V20,BCC+?,A,Aneeling at 298,hardness,EXP,None,298,3800000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
+114,Ti20Zr20Hf20Nb20V20,BCC,A,Aneeling at 573,hardness,EXP,None,298,3850000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
+115,Ti20Zr20Hf20Nb20V20,BCC,A,Aneeling at 773,hardness,EXP,None,298,3820000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
+116,Ti20Zr20Hf20Nb20V20,BCC,A,Aneeling at 973,hardness,EXP,None,298,3860000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
+117,Ti20Zr20Hf20Nb20V20,BCC+V2Hf,A,Aneeling at 1173,hardness,EXP,None,298,3810000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
+118,Ti20Zr20Hf20Nb20Cr20,BCC+Hf2Cr+Nb2Cr,A,Aneeling at 298,hardness,EXP,None,298,4550000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
+119,Ti20Zr20Hf20Nb20Cr20,BCC+Hf2Cr+Nb2Cr,A,Aneeling at 573,hardness,EXP,None,298,4570000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
+120,Ti20Zr20Hf20Nb20Cr20,BCC+Hf2Cr+Nb2Cr,A,Aneeling at 773,hardness,EXP,None,298,4700000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
+121,Ti20Zr20Hf20Nb20Cr20,BCC+Hf2Cr+Nb2Cr,A,Aneeling at 973,hardness,EXP,None,298,4800000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
+122,Ti20Zr20Hf20Nb20Cr20,BCC+Hf2Cr+Nb2Cr,A,Aneeling at 1173,hardness,EXP,None,298,4500000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
+123,Ti20Zr20Hf20Nb20Ta20,BCC,A,Aneeling at 296,hardness,EXP,None,298,3830000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
+124,W20Nb20Mo20Ta20 ,BCC,A,Aneeling at 296,hardness,EXP,None,298,4460000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
+125,W20Nb20Mo20Ta20V20,BCC,A,Aneeling at 296,hardness,EXP,None,298,5250000000.0,None,None,T3,10.1016/j.ijrmhm.2014.07.009
+126,AlMo0.5NbTa0.5TiZr,BCC+BCC,VAM,None,hardness,EXP,None,298,5800000000.0,None,None,T2,10.1007/s11837-014-1066-0
+127,AlNb1.5Ta0.5Ti1.5Zr0.5,BCC,VAM,None,hardness,EXP,None,298,4000000000.0,None,None,T2,10.1007/s11837-014-1066-0
+128,Al0.4Hf0.6NbTaTiZr,BCC,VAM,None,hardness,EXP,None,298,4900000000.0,None,None,T2,10.1007/s11837-014-1066-0
+129,Al0.3NbTaTi1.4Zr1.3,BCC+BCC,VAM,None,hardness,EXP,None,298,4800000000.0,None,None,T2,10.1007/s11837-014-1066-0
+130,Al0.3NbTa0.8Ti1.4V0.2Zr1.3,BCC,VAM,None,hardness,EXP,None,298,4900000000.0,None,None,T2,10.1007/s11837-014-1066-0
+131,Al0.5NbTa0.8Ti1.5V0.2Zr,BCC+BCC,VAM,None,hardness,EXP,None,298,5200000000.0,None,None,T2,10.1007/s11837-014-1066-0
+132,ZrNbMoHfV,BCC+laves,None,None,hardness,EXP,None,298,5285973000.0,None,None,P769,10.1179/1432891714Z.000000000785
+133,W84Cr7Fe9,BCC+mu,BM,None,hardness,EXP,None,298,13500000000.0,None,None,P1,10.1007/s11661-014-2286-1
+134,Ti70Si7.5B22.5,BCC+Ti6Si2B+TiB+Ti5Si3,HP,None,hardness,EXP,None,298,8155010850.0,None,None,T2,10.1590/S1516-14392014005000076
+135,CrMo0.5NbTa0.5TiZr,BCC+BCC+laves,None,None,hardness,EXP,None,298,5300000000.0,None,None,T3,10.1016/j.actamat.2014.01.029
+136,HfNbTaTiZr,BCC,None,None,hardness,EXP,None,298,3800000000.0,None,None,T3,10.1016/j.actamat.2014.01.029
+137,Ti45 Ni45 Ti5 C5,TiC+TiNi,None,None,hardness,EXP,None,298,5800000000.0,None,None,T4,10.3103/S106782121401012X
+138,Ti40 Ni40 Ti10 C10,TiC+TiNi,None,None,hardness,EXP,None,298,7500000000.0,None,None,T4,10.3103/S106782121401012X
+139,Ti35 Ni35 Ti15 C15,TiC+TiNi+Ni3Ti,None,None,hardness,EXP,None,298,10200000000.0,None,None,T4,10.3103/S106782121401012X
+140,Ti30 Ni30 Ti20 C20,TiC+TiNi+Ni3Ti,None,None,hardness,EXP,None,298,11700000000.0,None,None,T4,10.3103/S106782121401012X
+141,NbTiVZr,BCC,None,None,hardness,EXP,None,298,3290000000.0,None,None,T1,10.1016/j.actamat.2012.11.032
+142,NbTiV2Zr,BCC+BCC+BCC,None,None,hardness,EXP,None,298,2990000000.0,None,None,T1,10.1016/j.actamat.2012.11.032
+143,CrNbTiZr,BCC+laves,None,None,hardness,EXP,None,298,4099999999.9999995,None,None,T1,10.1016/j.actamat.2012.11.032
+144,CrNbTiVZr,BCC+laves,None,None,hardness,EXP,None,298,4720000000.0,None,None,T1,10.1016/j.actamat.2012.11.032
