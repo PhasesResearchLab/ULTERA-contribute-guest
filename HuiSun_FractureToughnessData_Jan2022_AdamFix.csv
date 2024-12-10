@@ -1,0 +1,110 @@
+Name:,Hui Sun
+Email:,suh960@psu.edu
+Direct Fetched:,T
+Hand Fetched:,T
+Comment:,Data originally fetched by Hui; heavily edited and re-uploaded by Adam in Jan2022; additional bugfixing in Nov 2024
+
+id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+1,Fe10.5 Co10.5 Ni10.5 Cr10.5 Cu10.5 Ti10.5 Mo10.5 Al10.5 Si10.5 Be5.5,BCC+martensite,None,None,fracture toughness,EXP,None,293.0,50900000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+2,Fe 14.3 Co14.3 Ni14.3 Cr14.3 Al42.8,BCC,None,None,fracture toughness,EXP,None,293.0,7600000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+3,Al23 Co15 Cr23 Cu8 Fe15 Ni15,BCC,None,None,fracture toughness,EXP,None,293.0,5600000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+4,Cr20 Mn20 Fe20 Co20 Ni20,FCC,None,None,fracture toughness,EXP,None,77.0,219000000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+5,Cr20 Mn20 Fe20 Co20 Ni21,FCC,None,None,fracture toughness,EXP,None,200.0,221000000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+6,Cr20 Mn20 Fe20 Co20 Ni22,FCC,None,None,fracture toughness,EXP,None,293.0,217000000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+7,Al16.7 Cr16.7 Fe16.7 Ni33.2 Cu16.7,FCC+BCC,None,None,fracture toughness,EXP,None,293.0,42500000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+8,Al16.7 Cr16.7 Fe16.7 Ni33.2 Cu16.8,FCC+BCC,None,None,fracture toughness,EXP,None,473.0,46500000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+9,Al5.9 Cr29.4 Fe29.4 Ni29.4 Ti5.9,FCC+BCC,None,None,fracture toughness,EXP,None,293.0,33500000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+10,Al18 Cr21 Fe20 Co20 Ni21,BCC,None,None,fracture toughness,EXP,None,293.0,9000000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+11,Al15.5 Cr22.25 Fe20 Co20 Ni22.25,FCC+BCC,None,None,fracture toughness,EXP,None,293.0,11000000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+12,Al13 Cr23.5 Fe20 Co20 Ni23.5,FCC,None,None,fracture toughness,EXP,None,293.0,53000000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+13,CrCoNi,FCC,None,None,fracture toughness,EXP,None,77.0,273300000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+14,CrCoNi,FCC,None,None,fracture toughness,EXP,None,198.0,265200000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+15,CrCoNi,FCC,None,None,fracture toughness,EXP,None,293.0,207700000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+16,Nb25 Mo25 Ta25 W25,BCC,None,Single Crystal,fracture toughness,EXP,None,298.0,1600000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+17,Nb25 Mo25 Ta25 W25,BCC+BCC,None,Bi-crystal,fracture toughness,EXP,None,298.0,200000.0,None,None,T1,10.1016/j.intermet.2018.05.013
+18,Ti25 Zr25 Nb25 Ta25,BCC,None,None,fracture toughness,EXP,None,298.0,28500000.0,None,None,T1,10.1016/j.intermet.2018.10.008
+19,Ti23.75 Zr23.75 Nb23.75 Ta23.75 Mo5,BCC,None,None,fracture toughness,EXP,None,298.0,22500000.0,None,None,T1,10.1016/j.intermet.2018.10.008
+20,Ti22.5 Zr22.5 Nb22.5 Ta22.5 Mo10,BCC,None,None,fracture toughness,EXP,None,298.0,20000000.0,None,None,T1,10.1016/j.intermet.2018.10.008
+21,Ti20 Zr20 Nb20 Ta20 Mo20,BCC,None,None,fracture toughness,EXP,None,298.0,18700000.0,None,None,T1,10.1016/j.intermet.2018.10.008
+22,V10 Cr10 Fe45 Co20 Ni15,FCC,None,None,fracture toughness,EXP,None,77.0,232000000.0,None,None,T2,10.1016/j.jallcom.2019.151864
+23,V10 Cr10 Fe45 Co20 Ni15,FCC,None,None,fracture toughness,EXP,None,298.0,219000000.0,None,None,T2,10.1016/j.jallcom.2019.151864
+24,Ti25 V25 Nb25 Ta25,BCC,None,None,fracture toughness,EXP,None,134.0,43000000.0,None,None,P4,10.1016/j.mtla.2020.100940
+25,Fe41 Co7 Cr15 Mo14 C15 B6 Y2,amorphous,None,None,fracture toughness,EXP,None,293.0,2200000.0,None,None,T1,10.1016/j.scriptamat.2013.05.020
+26,Zr41.2 Ti13.8 Cu12.5 Ni10 Be22.5,amorphous,None,None,fracture toughness,EXP,None,293.0,55000000.0,None,None,T1,10.1016/j.scriptamat.2013.05.020
+27,Ni59 Zr20 Ti16 Si2 Sn3,amorphous,None,None,fracture toughness,EXP,None,293.0,20000000.0,None,None,T1,10.1016/j.scriptamat.2013.05.020
+28,(Zr0.25Hf0.25Ta0.25Ti0.25)C,carbide,None,None,fracture toughness,EM,None,None,14200000.0,None,None,P2,10.1007/s11661-020-06034-2
+29,Mo,BCC,None,None,fracture toughness,EXP,None,273.0,13400000.0,None,None,T8,10.1007/s11661-009-9919-9
+30,Mo,BCC,None,None,fracture toughness,EXP,None,298.0,12600000.0,None,None,T8,10.1007/s11661-009-9919-9
+31,W,BCC,None,None,fracture toughness,EXP,None,296.0,7829000.0,None,None,F15,10.1016/j.actamat.2020.01.012
+34,W90 Ni 6.78 Fe 2.95,BCC+FCC,S,Spheroidal BCC W in ductile FCC Ni-Fe-W solid solution,fracture toughness,EXP,None,296.0,97000000.0,None,None,T4,10.1016/j.actamat.2020.01.012
+33,W92.5 Ni 5.33 Fe 2.19,BCC+FCC,S,Spheroidal BCC W in ductile FCC Ni-Fe-W solid solution,fracture toughness,EXP,None,296.0,96000000.0,None,None,T4,10.1016/j.actamat.2020.01.012
+34,W95 Ni 3.48 Fe1.49,BCC+FCC,S,Spheroidal BCC W in ductile FCC Ni-Fe-W solid solution,fracture toughness,EXP,None,296.0,107000000.0,None,None,T4,10.1016/j.actamat.2020.01.012
+32,W97.13 Ni2.01 Fe 0.86,BCC+FCC,S,Spheroidal BCC W in ductile FCC Ni-Fe-W solid solution,fracture toughness,EXP,None,296.0,69000000.0,None,None,T4,10.1016/j.actamat.2020.01.012
+33,W92.5 Ni 5.33 Fe 2.19,BCC+FCC,S,Spheroidal BCC W in ductile FCC Ni-Fe-W solid solution,fracture toughness,EXP,None,223.0,59000000.0,None,None,T4,10.1016/j.actamat.2020.01.012
+34,W95 Ni 3.48 Fe1.49,BCC+FCC,S,Spheroidal BCC W in ductile FCC Ni-Fe-W solid solution,fracture toughness,EXP,None,223.0,65000000.0,None,None,T4,10.1016/j.actamat.2020.01.012
+32,W97.13 Ni2.01 Fe 0.86,BCC+FCC,S,Spheroidal BCC W in ductile FCC Ni-Fe-W solid solution,fracture toughness,EXP,None,223.0,40000000.0,None,None,T4,10.1016/j.actamat.2020.01.012
+34,W90 Ni 6.78 Fe 2.95,BCC+FCC,S,Spheroidal BCC W in ductile FCC Ni-Fe-W solid solution,fracture toughness,EXP,None,173.0,73000000.0,None,None,T4,10.1016/j.actamat.2020.01.012
+33,W92.5 Ni 5.33 Fe 2.19,BCC+FCC,S,Spheroidal BCC W in ductile FCC Ni-Fe-W solid solution,fracture toughness,EXP,None,173.0,48000000.0,None,None,T4,10.1016/j.actamat.2020.01.012
+34,W95 Ni 3.48 Fe1.49,BCC+FCC,S,Spheroidal BCC W in ductile FCC Ni-Fe-W solid solution,fracture toughness,EXP,None,173.0,35000000.0,None,None,T4,10.1016/j.actamat.2020.01.012
+32,W97.13 Ni2.01 Fe 0.86,BCC+FCC,S,Spheroidal BCC W in ductile FCC Ni-Fe-W solid solution,fracture toughness,EXP,None,173.0,32000000.0,None,None,T4,10.1016/j.actamat.2020.01.012
+34,W90 Ni 6.78 Fe 2.95,BCC+FCC,S,Spheroidal BCC W in ductile FCC Ni-Fe-W solid solution,tensile yield stress,EXP,None,296.0,621000000.0,None,None,T3,10.1016/j.actamat.2020.01.012
+33,W92.5 Ni 5.33 Fe 2.19,BCC+FCC,S,Spheroidal BCC W in ductile FCC Ni-Fe-W solid solution,tensile yield stress,EXP,None,296.0,616000000.0,None,None,T3,10.1016/j.actamat.2020.01.012
+34,W95 Ni 3.48 Fe1.49,BCC+FCC,S,Spheroidal BCC W in ductile FCC Ni-Fe-W solid solution,tensile yield stress,EXP,None,296.0,600000000.0,None,None,T3,10.1016/j.actamat.2020.01.012
+32,W97.13 Ni2.01 Fe 0.86,BCC+FCC,S,Spheroidal BCC W in ductile FCC Ni-Fe-W solid solution,tensile yield stress,EXP,None,296.0,594000000.0,None,None,T3,10.1016/j.actamat.2020.01.012
+39,Ti86.2 Al10.2 V3.6,BCC+HCP,SLM,test direction matters,fracture toughness,EXP,None,None,22000000.0,None,None,T5,10.1016/j.ijfatigue.2018.08.029
+40,Ti86.2 Al10.2 V3.7,BCC+HCP,SLM+A,test direction matters,fracture toughness,EXP,None,None,29500000.0,None,None,T5,10.1016/j.ijfatigue.2018.08.029
+41,Ti86.2 Al10.2 V3.8,BCC+HCP,SLM+HT,test direction matters,fracture toughness,EXP,None,None,45000000.0,None,None,T5,10.1016/j.ijfatigue.2018.08.029
+42,Ti86.2 Al10.2 V3.9,BCC+HCP,SLM,test direction matters,fracture toughness,EXP,None,None,58000000.0,None,None,T5,10.1016/j.ijfatigue.2018.08.029
+43,Ti86.2 Al10.2 V3.10,BCC+HCP,EBM,test direction matters,fracture toughness,EXP,None,None,68000000.0,None,None,T5,10.1016/j.ijfatigue.2018.08.029
+44,Ti86.2 Al10.2 V3.11,BCC+HCP,EBM,test direction matters,fracture toughness,EXP,None,None,86500000.0,None,None,T5,10.1016/j.ijfatigue.2018.08.029
+45,Ti86.2 Al10.2 V3.12,BCC+HCP,EBM+HIP,test direction matters,fracture toughness,EXP,None,None,84000000.0,None,None,T5,10.1016/j.ijfatigue.2018.08.029
+46,Ti86.2 Al10.2 V3.13,BCC+HCP,S,None,fracture toughness,EXP,None,None,44300000.0,None,None,T6,10.1016/j.ijfatigue.2018.08.029
+47,Ti86.2 Al10.2 V3.14,BCC+HCP,HR+HT,None,fracture toughness,EXP,None,None,36900000.0,None,None,T6,10.1016/j.ijfatigue.2018.08.029
+48,Ti86.2 Al10.2 V3.15,BCC+HCP,HR+HT,None,fracture toughness,EXP,None,None,32100000.0,None,None,T6,10.1016/j.ijfatigue.2018.08.029
+49,Ti86.2 Al10.2 V3.16,BCC+HCP,HR+HT,None,fracture toughness,EXP,None,None,34300000.0,None,None,T6,10.1016/j.ijfatigue.2018.08.029
+50,Ti86.2 Al10.2 V3.17,BCC+HCP,IM,None,fracture toughness,EXP,None,None,64000000.0,None,None,T6,10.1016/j.ijfatigue.2018.08.029
+51,Ti86.2 Al10.2 V3.18,BCC+HCP,IM,None,fracture toughness,EXP,None,None,100000000.0,None,None,T6,10.1016/j.ijfatigue.2018.08.029
+52,Nb51 Ti26 Hf4 Cr2 Al2 Si15,beta+silicide,AC+HT,None,fracture toughness,EXP,None,298.0,13500000.0,None,None,P10,10.1016/S0921-5093(97)00555-8
+53,Nb41 Ti27 Cr8 Al9 Si15,beta+silicide,AC+HT,None,fracture toughness,EXP,None,298.0,19600000.0,None,None,P10,10.1016/S0921-5093(97)00555-8
+54,Nb83.5 Si16.5,None,None,None,fracture toughness,EXP,None,298.0,13000000.0,None,None,P10,10.1016/S0921-5093(97)00555-8
+55,Nb90 Si10,None,None,None,fracture toughness,EXP,None,298.0,21000000.0,None,None,P10,10.1016/S0921-5093(97)00555-8
+56,Nb42.5 Ti42.5 Si15,None,None,None,fracture toughness,EXP,None,298.0,13000000.0,None,None,P10,10.1016/S0921-5093(97)00555-8
+57,Nb40 Ti40 Si15 Al5,None,None,None,fracture toughness,EXP,None,298.0,16000000.0,None,None,P11,10.1016/S0921-5093(97)00555-8
+58,Fe Ni Co Mo,None,None,None,fracture toughness,EXP,None,None,30000000.0,None,None,P180,10.1016/j.actamat.2017.06.027
+59,NiAl,None,None,monilithic,fracture toughness,EXP,None,298.0,6500000.0,None,None,P305,10.1016/S1359-6454(96)00124-3
+60,Ni33 Al33 Cr33 Mo1,None,None,None,fracture toughness,EXP,None,298.0,17300000.0,None,None,P308,10.1016/S1359-6454(96)00124-3
+61,V,None,borided,None,fracture toughness,EXP,None,None,3800000.0,None,None,T1,10.1016/j.apsusc.2010.06.013
+62,MoSi,None,None,None,fracture toughness,EXP,None,1673.0,11500000.0,None,None,P3162,10.1111/j.1151-2916.1992.tb04406.x
+63,Al23Cr23Co15Cu8Fe15Ni15,BCC+FCC,AC,None,fracture toughness,EXP,None,298.0,5300000.0,None,None,P189,10.1016/j.matlet.2014.06.067
+64,AlCrFeNi2Cu,BCC+FCC,AC,None,fracture toughness,EXP,None,298.0,42500000.0,None,None,T2,10.1007/s11837-015-1563-9
+65,AlCrFeNi2Cu,BCC+FCC,AC,None,fracture toughness,EXP,None,473.0,46500000.0,None,None,T2,10.1007/s11837-015-1563-9
+66,Al0.2CrFeNiTi0.2,BCC+FCC,AC,None,fracture toughness,EXP,None,298.0,32350000.0,None,None,T2,10.1007/s11837-015-1563-9
+67,FeCoNiCrCuTiMoAlSiB0.5,FCC,AC,None,fracture toughness,EXP,None,298.0,51000000.0,None,None,T2,10.1007/s11837-015-1563-9
+68,Al23Cr23Co15Cu8Fe15Ni15,FCC,AC,None,fracture toughness,EXP,None,298.0,5000000.0,None,None,T2,10.1007/s11837-015-1563-9
+69,Zr61Ti2Cu25Al12,amorphous,AC,None,fracture toughness,EXP,None,298.0,106000000.0,None,None,T2,10.1007/s11837-015-1563-9
+70,CoCrFeNiAl0.25Ti0.5,BCC+FCC+sigma,S+borided,None,fracture toughness,EXP,None,298.0,3900000.0,None,None,T3,10.1016/j.vacuum.2020.109820
+71,Nb5Si3,None,AC,None,fracture toughness,EXP,None,None,21000000.0,None,None,P168,10.1016/j.msea.2003.10.307
+72,Nb Ti40 Si15 Al5,None,None,None,fracture toughness,EXP,None,None,16399999.999999998,None,None,P734,10.1557/PROC-460-727
+73,W,BCC,None,polycrystalline,fracture toughness,EXP,None,298.0,14000000.0,None,None,P229,10.1016/j.jnucmat.2010.03.007
+74,W,BCC,None,single crystal,fracture toughness,EXP,None,298.0,13100000.0,None,None,P229,10.1016/j.jnucmat.2010.03.007
+75,W,None,None,None,fracture toughness,EXP,None,None,8000000.0,None,None,P229,10.1016/j.jnucmat.2010.03.007
+76,WSi2,None,None,None,fracture toughness,EXP,None,298.0,3400000.0,None,None,T2,10.1557/PROC-552-KK6.6.1
+77,MoSi2,None,None,None,fracture toughness,EXP,None,298.0,3200000.0,None,None,T2,10.1557/PROC-552-KK6.6.1
+78,Nb50Mo50,BCC,HIP,None,fracture toughness,EXP,None,298.0,5860000.0,None,None,T4,10.1007/s12613-018-1631-6
+79,Nb90.85 Al9.15,Cr2Nb+BCC,HT,None,fracture toughness,EXP,None,298.0,20000000.0,None,None,P470,10.1557/PROC-322-461
+80,Cr32.1 Nb 67.9,Nb3AlNb,HT,None,fracture toughness,EXP,None,298.0,10000000.0,None,None,P470,10.1557/PROC-322-461
+81,Cr92 Ta8,BCC+laves,None,None,fracture toughness,EXP,None,298.0,9950000.0,None,None,T1,10.1016/S0966-9795(00)00046-7
+82,Cr90.2 Ta 9.8,BCC+laves,None,None,fracture toughness,EXP,None,298.0,8950000.0,None,None,T1,10.1016/S0966-9795(00)00046-7
+83,Cr89 Ta11,BCC+laves,None,None,fracture toughness,EXP,None,298.0,9700000.0,None,None,T1,10.1016/S0966-9795(00)00046-7
+84,Nb Hf7.5 Ti21 Si16,None,None,None,fracture toughness,EXP,None,298.0,12200000.0,None,None,T1,Cahn_1999_High-temperature Structural Materials
+85,Nb Hf10 Ti21 Si16,None,None,None,fracture toughness,EXP,None,298.0,11900000.0,None,None,T1,Cahn_1999_High-temperature Structural Materials
+86,Nb Hf 12.5 Ti21 Si16,None,None,None,fracture toughness,EXP,None,298.0,12100000.0,None,None,T1,Cahn_1999_High-temperature Structural Materials
+87,Nb Ti21 Si16,None,None,None,fracture toughness,EXP,None,298.0,11600000.0,None,None,T1,Cahn_1999_High-temperature Structural Materials
+88,Nb Hf7.5 Ti33 Si16,None,None,None,fracture toughness,EXP,None,298.0,12600000.0,None,None,T1,Cahn_1999_High-temperature Structural Materials
+89,Nb Hf10 Ti33 Si16,None,None,None,fracture toughness,EXP,None,298.0,13300000.0,None,None,T1,Cahn_1999_High-temperature Structural Materials
+90,Nb Hf 12.5 Ti33 Si16,None,None,None,fracture toughness,EXP,None,298.0,14000000.0,None,None,T1,Cahn_1999_High-temperature Structural Materials
+91,Nb Ti33 Si16,None,None,None,fracture toughness,EXP,None,298.0,11100000.0,None,None,T1,Cahn_1999_High-temperature Structural Materials
+92,Nb57 Ti22 Si16 Mo5,BCC+Nb3Si,None,None,fracture toughness,EXP,None,298.0,10400000.0,None,None,T5,10.1016/j.jallcom.2020.158143
+93,Nb52 Ti22 Si16 Mo10,BCC+Nb5Si3,None,None,fracture toughness,EXP,None,298.0,11900000.0,None,None,T5,10.1016/j.jallcom.2020.158143
+94,Nb47 Ti22 Si16 Mo15,BCC+Nb5Si3,None,None,fracture toughness,EXP,None,298.0,10400000.0,None,None,T5,10.1016/j.jallcom.2020.158143
+95,Nb42 Ti22 Si16 Mo20,BCC+Nb5Si3,None,None,fracture toughness,EXP,None,298.0,7200000.0,None,None,T5,10.1016/j.jallcom.2020.158143
