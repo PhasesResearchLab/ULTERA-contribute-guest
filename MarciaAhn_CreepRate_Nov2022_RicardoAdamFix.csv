@@ -2,7 +2,7 @@ Name:,Marcia Ahn
 Email:,mfa5876@psu.edu
 Direct Fetched:,T
 Hand Fetched:,T
-Comment:,Data by Marcia; small fixes by Adam
+Comment:,Data by Marcia; small fixes by Adam in November 2022; major data values fixes by Ricardo in October 2024; major polishing and fixes by Adam in December 2024
 
 id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
 1,Ti45 Al45 Nb10 ,BCC,A,None,creep rate,EXP,stress = 207 MPa,1033.0,6e-09,None,s-1,T1,10.1016/S0921-5093(01)01150-9
